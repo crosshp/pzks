@@ -1,0 +1,94 @@
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.1635.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.1809.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.1912.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.read.2574.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.read.2623.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.3891.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.1464.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.1563.tlog
+E:\Study\5 курс\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\GenerateResource.write.1794.tlog
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csprojResolveAssemblyReference.cache
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+F:\Study\9\Русанова\Lab2\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.GenerateResource.Cache
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csprojResolveAssemblyReference.cache
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.GenerateResource.Cache
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+F:\Study\10\PZKS\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csprojResolveAssemblyReference.cache
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+G:\Study\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.GenerateResource.Cache
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
+E:\10\PZKS\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+E:\10\PZKS\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csprojResolveAssemblyReference.cache
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+E:\10\PZKS\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.GenerateResource.Cache
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csprojResolveAssemblyReference.cache
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.GenerateResource.Cache
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+D:\институт 10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form4.resources
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csprojResolveAssemblyReference.cache
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form4.resources
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+F:\Институт\10 семестр\ПЗКС\lab1\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.GenerateResource.Cache
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csprojResolveAssemblyReference.cache
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form1.resources
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form2.resources
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form3.resources
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Form4.resources
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.Properties.Resources.resources
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.GenerateResource.cache
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.csproj.CoreCompileInputs.cache
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.exe
+D:\Study\5 курс\2 Семестр\PZKS2\PZKS2\obj\x86\Debug\PZKS2.pdb
